@@ -2,9 +2,9 @@
 Welcome to my GitHub profile! 🌟  
 
 ## 🚀 About Me  
-🎓 I’m a Informatics Engineering Students at Budi Luhur University  
-🌱 Currently learning about **[MERN tech stack]**  
-💼 Interested in **[Web Development and Mobile Developmet]**  
+🎓 I’m a **Informatics Engineering Students** at **Budi Luhur University**  
+🌱 Currently learning about **MERN tech stack and Laravel**  
+💼 Interested in **Web Development and Mobile Developmet**  
 
 ## 🛠️ Skills & Tools  
 - Programming: ![PHP](https://img.shields.io/badge/PHP-purple?logo=php) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)  
