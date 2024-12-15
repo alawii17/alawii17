@@ -9,7 +9,7 @@ Welcome to my GitHub profile! 🌟
 ## 🛠️ Skills & Tools  
 - Programming: ![PHP](https://img.shields.io/badge/PHP-purple?logo=php) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)  
 - Frameworks: ![Laravel](https://img.shields.io/badge/Laravel-red?logo=laravel) ![React](https://img.shields.io/badge/React-blue?logo=react)  
-- Databases: ![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql)  
+- Databases: ![MySQL](https://img.shields.io/badge/MySQL-gray?logo=mysql) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-silver?logo=postgresql)  
 
 ## 🔗 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/muhammad-alawi-alatas-2b521b218/)
